@@ -4,7 +4,7 @@ export default function Skills(){
     return(
         <section>
             <div>
-                
+                ReactJS
             </div>
         </section>
     )
